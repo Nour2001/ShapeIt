@@ -4,8 +4,6 @@ A program that uses Object oriented programming to allow the user to create a sq
  Description: creates a hierarchy of a class that calculates simple geometry.
  Date: July 29, 2020
  Author: Nour Elgawish
- AU Student ID: 3480626
- Version: 1.0
  Copyright: 2020 Nour Elgawish
 */
 
@@ -14,8 +12,6 @@ A program that uses Object oriented programming to allow the user to create a sq
  
  Program Purpose:
      This program uses the concept of inhertiance and class hierarchy to calculate the area, circumfrance, and bounding box of three shapes. The three shapes are a square, circle and a triangle and they all are objects from their corrosponding classes.
- 
- Note: in Cygwin, main must return type int
  
   Classes: Point class, Shape class, Circle class, Square Class, Triangle Class
   
